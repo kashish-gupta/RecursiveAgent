@@ -1,0 +1,5 @@
+function agentObs = agentEnvFromEnv(Obs, agentEnvVariables, envVariables)
+
+
+
+end
